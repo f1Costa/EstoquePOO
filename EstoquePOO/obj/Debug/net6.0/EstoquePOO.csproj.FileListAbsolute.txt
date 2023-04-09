@@ -1,0 +1,15 @@
+C:\Users\f1tel\EstoquePOO\EstoquePOO\bin\Debug\net6.0\EstoquePOO.exe
+C:\Users\f1tel\EstoquePOO\EstoquePOO\bin\Debug\net6.0\EstoquePOO.deps.json
+C:\Users\f1tel\EstoquePOO\EstoquePOO\bin\Debug\net6.0\EstoquePOO.runtimeconfig.json
+C:\Users\f1tel\EstoquePOO\EstoquePOO\bin\Debug\net6.0\EstoquePOO.dll
+C:\Users\f1tel\EstoquePOO\EstoquePOO\bin\Debug\net6.0\EstoquePOO.pdb
+C:\Users\f1tel\EstoquePOO\EstoquePOO\obj\Debug\net6.0\EstoquePOO.csproj.AssemblyReference.cache
+C:\Users\f1tel\EstoquePOO\EstoquePOO\obj\Debug\net6.0\EstoquePOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f1tel\EstoquePOO\EstoquePOO\obj\Debug\net6.0\EstoquePOO.AssemblyInfoInputs.cache
+C:\Users\f1tel\EstoquePOO\EstoquePOO\obj\Debug\net6.0\EstoquePOO.AssemblyInfo.cs
+C:\Users\f1tel\EstoquePOO\EstoquePOO\obj\Debug\net6.0\EstoquePOO.csproj.CoreCompileInputs.cache
+C:\Users\f1tel\EstoquePOO\EstoquePOO\obj\Debug\net6.0\EstoquePOO.dll
+C:\Users\f1tel\EstoquePOO\EstoquePOO\obj\Debug\net6.0\refint\EstoquePOO.dll
+C:\Users\f1tel\EstoquePOO\EstoquePOO\obj\Debug\net6.0\EstoquePOO.pdb
+C:\Users\f1tel\EstoquePOO\EstoquePOO\obj\Debug\net6.0\EstoquePOO.genruntimeconfig.cache
+C:\Users\f1tel\EstoquePOO\EstoquePOO\obj\Debug\net6.0\ref\EstoquePOO.dll
